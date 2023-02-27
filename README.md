@@ -8,7 +8,7 @@ The methodology for this project is inspired by a documentation on the official 
 
 3.1 Model Pipeline
 
-The input layer of the model is designed to receive coloured images with dimension of (180,180,3). Data augmentation layers is used on the input images with random rotation and random flip.
+The input layer of the model is designed to receive coloured images with dimension of (224,224,3). Data augmentation layers is used on the input images with random rotation and random flip.
 
 Transfer learning approach is used in this project. Preprocessing layer is created to transform the images so that the pixel values is standardised to range between -1 and 1. This layer acts as a feature scaler of the input images.
 
