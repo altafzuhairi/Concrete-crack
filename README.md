@@ -20,7 +20,7 @@ The simplified illustration of the model is shown in the figure below.
 
 ![model](https://user-images.githubusercontent.com/124944787/221598005-05b8f398-e59b-4800-b6de-33d6955b7f5a.png)
 
-#4. Results
+# 4. Results
 The model is evaluated with test data. Some predictions are made with the model are shown in the figure below.
 
 ![image](https://user-images.githubusercontent.com/124944787/221610974-e45ab8d0-a2be-4134-a0c1-94e832031d31.png)
